@@ -9,3 +9,5 @@ Example: 01-Process-data-for-regression-V1
 ## Notebooks list
 
 01-Process-data-for-regression-V1: This notbooks takes the data from kaggle competition RAOP and outputs a dataframe ready to be used for a linear regresion model.
+
+02-Model-LogReg-V1: Logistic regresion for baseline model.
