@@ -7,4 +7,4 @@
 
 4. Countvectorization: https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e
 
-5. 
+5. Natural Language Processing: https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
